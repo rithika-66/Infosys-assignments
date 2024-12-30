@@ -1,5 +1,5 @@
 ##**VIDEO PREVIEW**
-ai.mp4
+https://github.com/rithika-66/Infosys-assignments/blob/main/ai.mp4
 
 
 
