@@ -9,6 +9,7 @@ https://github.com/rithika-66/Infosys-assignments/blob/main/ai.mp4
 
 
 ##**CODE**
+```python
 import nltk
 nltk.download('punkt')
 import numpy as np
